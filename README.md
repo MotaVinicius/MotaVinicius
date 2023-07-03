@@ -1,10 +1,12 @@
-<h1 align="center"> Hey there, I'm Vinicius Mota </h1> 
+<h1 align="center"> Olá, Eu me chamo Vinicius Mota </h1> 
 
 
-📚 I'm a university student
+📚 Estou cursando faculdade de Redes de computadores.
 
-👨🏻‍💻 I’m currently learning Web development (Js, React, Node)
+🎯 Possuo bons conhecimentos e habilidades com Hardware que ja foram adquiridos antes de iniciar a graduação, porém estou focado na area de desenvolvimento.
 
-🤔 A fact about me: I switched from business administration to my love for computers, so I enrolled in a computer networking course because my prior knowledge was more focused on hardware. However, there I learned more about programming and got captivated... Since then, I decided that I would become a developer.
+👨🏻‍💻 Atualmente estou aprendendo desenvolvimento Web (Js, React, Node) e também ciência de dados (Python, scikit-learn, pandas, matplotlib)
 
-📧 Contact: Motavinicius@outlook.com
+🤔 Uma curiosidade sobre mim é que desisti da minha graduação em administração de empresas para me dedicar a area de T.I a qual eu possuia um interesse genuino, estudei a fundo sobre Hardware por conta própria, adquiri experiencias com montagem e manutenção de computadores fazendo trabalhos freelancer, então decidi entrar na faculdade para me especializar mais e la comecei a aprender sobre programação e então meus objetivos mudaram pois me identifiquei muito com a parte de desenvolvimento e decidi que seria um dev.
+
+📧 Contato: Motavinicius@outlook.com
