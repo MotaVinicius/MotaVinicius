@@ -7,6 +7,4 @@
 
 👨🏻‍💻 Atualmente estou aprendendo desenvolvimento Web (React, NodeJs).
 
-🤔 Uma curiosidade sobre mim é que deixei minha graduação em administração de empresas para me dedicar a area de T.I a qual eu possuia um interesse genuino, estudei a fundo sobre Hardware por conta própria, adquiri experiencias com montagem e manutenção de computadores fazendo trabalhos freelancer, e então decidi entrar na faculdade para me especializar mais e la tive meus primeiros contatos com programação. Conforme aprendia mais sobre a area de desenvolvimento mais meu interesse aumentava, então meus objetivos mudaram, minha nova meta passou a ser me tornar um dev.
-
 📧 Contato: Motavinicius@outlook.com
