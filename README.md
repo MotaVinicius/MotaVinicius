@@ -1,10 +1,12 @@
 <h1 align="center"> Olá, Eu me chamo Vinicius Mota </h1> 
 
 
-📚 Sou universitario, estou cursando Redes de computadores.
+👨🏻‍🎓 Sou formado em Redes de Computadores pela Faculdade de Tecnologia do Estado de São Paulo.
 
-🎯 Possuo bons conhecimentos e habilidades com Hardware adquiridos com expêriencias como freelancer, porém sou muito interessado na area de desenvolvimento.
+👨🏻‍💻 Trabalho como Técnico de Suporte.
 
-👨🏻‍💻 Atualmente estou aprendendo desenvolvimento Web (React, NodeJs).
+📚 Atualmente estou estudando Cloud, IaC e CI/CD.
+
+🎯 Possuo conhecimentos e habilidades com Hardware, Redes, Linux, Docker, Terraform, Ansible, AWS e GitHub Actions.
 
 📧 Contato: Motavinicius@outlook.com
