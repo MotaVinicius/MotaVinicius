@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, Eu me chamo Vinicius Mota </h1> 
 
 
-👨🏻‍🎓 Sou formado em Redes de Computadores pela Faculdade de Tecnologia do Estado de São Paulo.
+👨🏻‍🎓 Sou formado em Redes de Computadores pela Faculdade de Tecnologia do Estado de São Paulo e estou cursando pós graduação em DevOps.
 
 👨🏻‍💻 Trabalho como Técnico de Suporte.
 
